@@ -1,0 +1,25 @@
+body {
+	font-family: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+    margin: 4em auto;
+    width: 520px;
+    background-color: #FFFFFB;
+}
+
+h1 {
+    font-family: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+    text-align: center;
+}
+
+h2 {
+	font: 14px "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font: 14px "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+    text-align: center;
+}
+
+p {
+    font: 14px "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+}
